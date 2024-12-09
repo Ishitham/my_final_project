@@ -21,7 +21,7 @@ pages = st.sidebar.radio("Go to", ["Home", "Industry Analysis", "Shark Participa
 
 # Page: Home
 if pages == "Home":
-    st.title("Shark Tank India - Data Analysis")
+    st.title("🦈 Shark Tank India")
     st.write("This app provides an analysis of Shark Tank India data.")
     
     # Overview Metrics
