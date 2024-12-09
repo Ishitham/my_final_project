@@ -6,7 +6,7 @@ This is my final project for UNC Charlotte's DSBA-5122 - Visual Analytics course
 [View my Streamlit App here!](https://imanchip-final-app-project.streamlit.app/ "Click to view the dashboard")
 
 ### Dataset Link
-[Kaggle](https://www.kaggle.com/datasets/thirumani/shark-tank-india "Click to view the dashboard")
+[Kaggle](https://www.kaggle.com/datasets/thirumani/shark-tank-india)
 
 ## Introduction
 The Shark Tank India dataset provides insights into the startups that participated in the popular entrepreneurial reality show. It includes information about startup names, industries, seasons, investment amounts, and the participation of various sharks. By analyzing this dataset, we can uncover trends in entrepreneurial ventures, highlight the most active industries, and identify patterns in funding decisions. This dataset serves as a valuable resource for understanding the dynamics of startup funding and the preferences of investors in India.
